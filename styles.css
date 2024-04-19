@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+table{
+	border-collapse: collapse;
+	background-color: yellow;
+}
+
+th,td,table{
+	border: 1px solid black;
+}
